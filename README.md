@@ -1,6 +1,6 @@
 # crispy-broccoli
 
-# github-repos-recherche
+# packagenpm
 
 Obtenez une liste des référentiels Github du nom d'utilisateur spécifié triés par nombre d'étoiles dans l'ordre décroissant et l'heure de la dernière mise à jour
 
@@ -21,7 +21,7 @@ yarn add packagenpm
 const { getRepos } = require('packagenpm');
 
 # utiliser l'import
-import { getRepos } depuis 'packagenpm' ;
+import { getRepos } from 'packagenpm' ;
 ```
 
 ## Exemple
